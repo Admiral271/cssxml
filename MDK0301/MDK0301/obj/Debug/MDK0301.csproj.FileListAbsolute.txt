@@ -1,0 +1,8 @@
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\bin\Debug\MDK0301.exe.config
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\bin\Debug\MDK0301.exe
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\bin\Debug\MDK0301.pdb
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\obj\Debug\MDK0301.csproj.AssemblyReference.cache
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\obj\Debug\MDK0301.csproj.SuggestedBindingRedirects.cache
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\obj\Debug\MDK0301.csproj.CoreCompileInputs.cache
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\obj\Debug\MDK0301.exe
+C:\Users\ienik\Desktop\CSS XML\MDK0301\MDK0301\obj\Debug\MDK0301.pdb
